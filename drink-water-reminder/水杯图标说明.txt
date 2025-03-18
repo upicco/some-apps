@@ -1,0 +1,14 @@
+要使用自定义水杯图标，请将名为"water_icon.png"的PNG格式图片放在此程序目录下。
+
+您可以从网上下载免费的水杯图标，或者使用以下网址下载简单的水杯图标：
+https://www.flaticon.com/free-icon/water_861101
+https://www.flaticon.com/free-icon/glass-of-water_3100553
+https://www.flaticon.com/free-icon/water_606797
+
+下载后请确保将图片重命名为"water_icon.png"并放置在程序同一目录下。
+
+如果没有提供图标，程序仍然可以正常工作：
+- 命令行版本将使用默认系统通知图标
+- 图形界面版本将自动创建一个简单的蓝色水滴图标用于通知和系统托盘
+
+图标建议使用正方形PNG图片，尺寸为64x64或128x128像素，背景透明效果最佳。 
